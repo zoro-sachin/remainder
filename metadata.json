@@ -1,0 +1,7 @@
+{
+  "name": "ChronoTask",
+  "description": "Offline Google Calendar-style task reminder app with recurring alarms, color-coded projects, P2P encrypted sync, and home widgets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
